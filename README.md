@@ -7,3 +7,5 @@ Le projet WLED pour le soft et les intégrations : https://kno.wled.ge
 
 Datasheet WS2815b : https://www.marutsu.co.jp/contents/shop/marutsu/datasheet/WS2815B.pdf
 
+Datasheet ESP32 : https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+

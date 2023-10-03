@@ -1361,9 +1361,6 @@
   (junction (at 337.82 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 0c8a2e70-3c5f-474d-8d21-3ed67d502b6b)
   )
-  (junction (at 46.99 49.53) (diameter 0) (color 0 0 0 0)
-    (uuid 35e8ddcb-51ef-4742-b4ea-ee14ce7d667e)
-  )
   (junction (at 335.28 54.61) (diameter 0) (color 0 0 0 0)
     (uuid 3f932532-ffe9-4940-acd3-3d7b26c32cc7)
   )
@@ -1372,9 +1369,6 @@
   )
   (junction (at 346.71 45.72) (diameter 0) (color 0 0 0 0)
     (uuid 48c36bb9-5aa2-45ad-a6a2-7f24633a8af5)
-  )
-  (junction (at 27.94 49.53) (diameter 0) (color 0 0 0 0)
-    (uuid 5a9cd813-29e2-421c-8439-65808594e357)
   )
   (junction (at 229.87 68.58) (diameter 0) (color 0 0 0 0)
     (uuid 5ae9ec6e-b893-42c1-832f-22c2b16c00cc)
@@ -1393,9 +1387,6 @@
   )
   (junction (at 46.99 27.94) (diameter 0) (color 0 0 0 0)
     (uuid d2363903-5617-4ca1-8f9b-da9ddeecf753)
-  )
-  (junction (at 38.1 58.42) (diameter 0) (color 0 0 0 0)
-    (uuid ee351517-5f0e-4a4f-992e-1f03ecd20ced)
   )
   (junction (at 229.87 73.66) (diameter 0) (color 0 0 0 0)
     (uuid f45a84a3-8081-45c8-84dc-170a00d3877b)
@@ -1429,17 +1420,9 @@
     (stroke (width 0) (type default))
     (uuid 1e7801bb-fd49-4f06-aeb2-8f8ea15a81b7)
   )
-  (wire (pts (xy 227.33 88.9) (xy 229.87 88.9))
-    (stroke (width 0) (type default))
-    (uuid 1f619aa3-3ad8-4b73-ac17-7527d0de35a1)
-  )
   (wire (pts (xy 27.94 102.87) (xy 27.94 106.68))
     (stroke (width 0) (type default))
     (uuid 1fb58b8f-c2a9-4608-8ef8-15a5dfd45a64)
-  )
-  (wire (pts (xy 21.59 49.53) (xy 27.94 49.53))
-    (stroke (width 0) (type default))
-    (uuid 22d612ea-7c94-46d9-8eb4-3a7fecf2d417)
   )
   (wire (pts (xy 224.79 73.66) (xy 229.87 73.66))
     (stroke (width 0) (type default))
@@ -1501,14 +1484,6 @@
     (stroke (width 0) (type default))
     (uuid 46e2f063-4c37-40aa-8028-d885f38f37fb)
   )
-  (wire (pts (xy 27.94 58.42) (xy 38.1 58.42))
-    (stroke (width 0) (type default))
-    (uuid 48fab868-9df7-443e-b54b-e86bf69bd66d)
-  )
-  (wire (pts (xy 45.72 49.53) (xy 46.99 49.53))
-    (stroke (width 0) (type default))
-    (uuid 4aba4ce5-839e-4b29-a39a-5a61c2de4da7)
-  )
   (wire (pts (xy 179.07 48.26) (xy 184.15 48.26))
     (stroke (width 0) (type default))
     (uuid 5257ca4c-bad2-4994-a6a2-312d6197071c)
@@ -1565,37 +1540,17 @@
     (stroke (width 0) (type default))
     (uuid 7cf82735-8756-4a7b-9081-4f27c93283f1)
   )
-  (wire (pts (xy 27.94 49.53) (xy 30.48 49.53))
-    (stroke (width 0) (type default))
-    (uuid 825ed790-e059-4adb-a480-3f7a25cfd4d6)
-  )
   (wire (pts (xy 46.99 36.83) (xy 38.1 36.83))
     (stroke (width 0) (type default))
     (uuid 838c9e71-bc0f-4a05-b3bb-1e524f74ef4b)
-  )
-  (wire (pts (xy 46.99 54.61) (xy 46.99 58.42))
-    (stroke (width 0) (type default))
-    (uuid 8504ca08-bcae-4416-8312-150824644f8e)
   )
   (wire (pts (xy 292.1 48.26) (xy 295.91 48.26))
     (stroke (width 0) (type default))
     (uuid 8f5b80b0-cd11-47b4-bae7-334f2f192284)
   )
-  (wire (pts (xy 46.99 58.42) (xy 38.1 58.42))
-    (stroke (width 0) (type default))
-    (uuid 915f798c-9bd6-4b65-8af8-7b39ba7dd112)
-  )
-  (wire (pts (xy 38.1 57.15) (xy 38.1 58.42))
-    (stroke (width 0) (type default))
-    (uuid 9d35d754-f7ca-4097-b26e-1e2b70eb3317)
-  )
   (wire (pts (xy 306.07 59.69) (xy 306.07 58.42))
     (stroke (width 0) (type default))
     (uuid 9d5b4563-1c28-4dcf-b84b-88346ac08f63)
-  )
-  (wire (pts (xy 46.99 49.53) (xy 48.26 49.53))
-    (stroke (width 0) (type default))
-    (uuid 9df38d2c-dc0d-4a3f-a905-f8f1896b3e67)
   )
   (wire (pts (xy 27.94 36.83) (xy 38.1 36.83))
     (stroke (width 0) (type default))
@@ -1637,10 +1592,6 @@
     (stroke (width 0) (type default))
     (uuid becf93d1-fa21-455b-a6b2-67d6af5f64f4)
   )
-  (wire (pts (xy 27.94 54.61) (xy 27.94 58.42))
-    (stroke (width 0) (type default))
-    (uuid c183ed5a-c4fc-46a7-b619-39dd31d22b57)
-  )
   (wire (pts (xy 30.48 102.87) (xy 30.48 106.68))
     (stroke (width 0) (type default))
     (uuid c422018f-2d7a-42a0-8aba-6ef2da1d0ce1)
@@ -1656,10 +1607,6 @@
   (wire (pts (xy 179.07 43.18) (xy 182.88 43.18))
     (stroke (width 0) (type default))
     (uuid ca848f8f-1cb2-425b-9013-98af24e52c1a)
-  )
-  (wire (pts (xy 38.1 58.42) (xy 38.1 59.69))
-    (stroke (width 0) (type default))
-    (uuid d04a92ae-5b1c-423e-bf20-9af1c03b8319)
   )
   (wire (pts (xy 335.28 54.61) (xy 340.36 54.61))
     (stroke (width 0) (type default))
@@ -1877,35 +1824,9 @@
     )
     (pin "1" (uuid ca8ebc9b-93cb-48e5-b610-054a02cf4693))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR015") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 27.94 52.07 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 0d0abcd0-b567-4211-ba01-e0e85a25d970)
-    (property "Reference" "C3" (at 22.86 50.8 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1uF" (at 25.4 54.61 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 27.94 52.07 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 27.94 52.07 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 54745899-4868-4000-94cf-f28a0012a1c9))
-    (pin "2" (uuid 99031b62-c7ab-42dc-9b26-973f2b63ca21))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "C3") (unit 1)
         )
       )
     )
@@ -1929,7 +1850,7 @@
     (pin "1" (uuid aa32f18d-258a-452d-81cc-8b55d2ccc916))
     (pin "2" (uuid ff877aaa-51d8-47df-a60c-02a7f29f1ee9))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "J2") (unit 1)
         )
@@ -1954,7 +1875,7 @@
     )
     (pin "1" (uuid 0692a951-0d8b-4b5c-b7fe-63f5651b67ce))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR04") (unit 1)
         )
@@ -1980,7 +1901,7 @@
     (pin "1" (uuid abefe0db-6009-4926-8314-266de20b4450))
     (pin "2" (uuid 5c4f97a3-2c50-4893-a3db-211d8b3b9969))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "C2") (unit 1)
         )
@@ -2005,7 +1926,7 @@
     )
     (pin "1" (uuid d3f54437-6477-45f7-9aca-c4d255767649))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR026") (unit 1)
         )
@@ -2036,7 +1957,7 @@
     (pin "1" (uuid 665af2d3-6c4f-45a1-8855-17f47655501b))
     (pin "2" (uuid cd141a26-7034-4cde-8251-52a0277e2be8))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "C8") (unit 1)
         )
@@ -2069,7 +1990,7 @@
     (pin "3" (uuid 61b901b9-7b71-413b-a572-1dc0595aae5b))
     (pin "4" (uuid 75d3a254-020f-4c5b-b942-50e499c8bf43))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "J5") (unit 1)
         )
@@ -2100,7 +2021,7 @@
     (pin "1" (uuid cc5973cd-a593-4d1f-b9f7-12655528bf0b))
     (pin "2" (uuid 23bde293-a779-49b4-bf99-99bfa98ea5b6))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "C1") (unit 1)
         )
@@ -2125,7 +2046,7 @@
     )
     (pin "1" (uuid c989c75a-95ef-4a9a-92f3-b584bdf44938))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR010") (unit 1)
         )
@@ -2156,7 +2077,7 @@
     (pin "6" (uuid 308faae2-1dab-4967-ada6-5de2a4776196))
     (pin "7" (uuid b2d8e853-5d5d-4598-b824-8b0db6012b45))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "J3") (unit 1)
         )
@@ -2181,7 +2102,7 @@
     )
     (pin "1" (uuid 4b79363b-d436-4041-9cbd-8839bbfde0cf))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR031") (unit 1)
         )
@@ -2211,34 +2132,9 @@
     )
     (pin "1" (uuid 2ed31cd3-e58b-4a94-b8ed-1fd563b4a855))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR017") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+3.3V") (at 48.26 49.53 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 589329a1-c6cf-489f-8800-ce0c4a2aac95)
-    (property "Reference" "#PWR012" (at 44.45 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3.3V" (at 52.07 50.165 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 48.26 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 48.26 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ff6eaee7-1a00-459c-af43-f29cccd59c50))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -2261,7 +2157,7 @@
     )
     (pin "1" (uuid 76fe7280-786b-4ae2-9dae-055cd33bcd3e))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR013") (unit 1)
         )
@@ -2286,60 +2182,9 @@
     )
     (pin "1" (uuid 84dbdbc5-4c02-4453-974d-85348aa619b4))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR05") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 46.99 52.07 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 69e705cb-0b19-439a-8511-29d041f2113d)
-    (property "Reference" "C4" (at 49.53 51.4413 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1uF" (at 49.53 53.9813 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 46.99 52.07 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 46.99 52.07 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 0df8b785-0e9f-4750-905c-c7cdefde69de))
-    (pin "2" (uuid f81f681b-9320-4764-abed-6cbdf51c5c47))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "C4") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+5V") (at 21.59 49.53 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 7a2f4202-98f0-4c98-a257-4612bc0ea3dc)
-    (property "Reference" "#PWR09" (at 25.4 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 20.32 45.72 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 21.59 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 21.59 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c47487df-d953-40f8-8cf6-adaf4afccc31))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -2405,7 +2250,7 @@
     (pin "8" (uuid 81b92eb9-a857-416c-bc33-5031fc339af0))
     (pin "9" (uuid 352c9639-8561-4db2-8823-c09521e81c4b))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "U1") (unit 1)
         )
@@ -2430,7 +2275,7 @@
     )
     (pin "1" (uuid d1506943-4a1f-49b0-b58e-83da6e26e2b2))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR030") (unit 1)
         )
@@ -2460,7 +2305,7 @@
     )
     (pin "1" (uuid 0e752517-9daa-441f-a8a8-eae5e20c1f4b))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR06") (unit 1)
         )
@@ -2485,7 +2330,7 @@
     )
     (pin "1" (uuid 14ceffb5-ac89-4647-9b71-197a914aaa56))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR01") (unit 1)
         )
@@ -2510,7 +2355,7 @@
     )
     (pin "1" (uuid 6125ef58-2231-4035-beec-f3eb6e438b2d))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR07") (unit 1)
         )
@@ -2536,7 +2381,7 @@
     (pin "1" (uuid d2d890c2-7076-47b9-a015-5fd69f6321d7))
     (pin "2" (uuid 7bead9dd-31fc-4de3-b9e8-cfa1dd3bd379))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "F1") (unit 1)
         )
@@ -2564,7 +2409,7 @@
     (pin "3" (uuid 5ab54c47-1617-497f-ab28-cf936c84d4e4))
     (pin "4" (uuid 7fb0dd3b-1644-4eb4-a81a-62d93cd5457c))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "J7") (unit 1)
         )
@@ -2594,7 +2439,7 @@
     )
     (pin "1" (uuid c5ea9478-bcdb-4906-93d8-18c759bdfa02))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR014") (unit 1)
         )
@@ -2619,7 +2464,7 @@
     )
     (pin "1" (uuid eab62722-6b01-4f7c-9cb6-1d50cef5c6f7))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR029") (unit 1)
         )
@@ -2649,7 +2494,7 @@
     )
     (pin "1" (uuid 20cbeff8-081a-4935-a09b-c278b95f0205))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR025") (unit 1)
         )
@@ -2679,7 +2524,7 @@
     )
     (pin "1" (uuid b510f676-c3fe-4c9f-93b4-8e8c55eb0d90))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR02") (unit 1)
         )
@@ -2711,7 +2556,7 @@
     (pin "7" (uuid 51be3bbd-3c54-4fa5-b8e0-d591eb50989e))
     (pin "8" (uuid 306266cc-22e2-4d3d-ab21-9ab54597f9e6))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "U3") (unit 1)
         )
@@ -2741,7 +2586,7 @@
     )
     (pin "1" (uuid bf9a5ce5-34cd-48ee-a543-f69bddb4b12a))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR016") (unit 1)
         )
@@ -2766,7 +2611,7 @@
     )
     (pin "1" (uuid 9e9905d6-f229-43bf-99f4-df10ab53074c))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR024") (unit 1)
         )
@@ -2797,7 +2642,7 @@
     (pin "1" (uuid 65ee0278-b57d-45c9-839c-a778faa74eb5))
     (pin "2" (uuid fcaca0f7-27a2-4d32-883a-9a44cd48400e))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "JP1") (unit 1)
         )
@@ -2822,7 +2667,7 @@
     )
     (pin "1" (uuid 7ac0e926-8615-49f4-8a77-c4ff92ac125b))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR027") (unit 1)
         )
@@ -2830,86 +2675,6 @@
       (project "esp32-Wled"
         (path "/fec08750-fa51-44d3-b324-9a05d6b08037"
           (reference "#PWR05") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 38.1 59.69 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid db3734ac-968d-4069-a463-0e60212f0437)
-    (property "Reference" "#PWR011" (at 38.1 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 38.1 64.77 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 38.1 59.69 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 38.1 59.69 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid e46f9e74-7e73-4b66-958f-c3258ad0eb2f))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "#PWR011") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+5V") (at 227.33 88.9 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid e1f96ba3-adf4-46f9-9af7-163f33aa244b)
-    (property "Reference" "#PWR03" (at 231.14 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 223.52 89.535 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 227.33 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 227.33 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid e5a8dbb4-3b28-42a8-beb5-5aa107535b4d))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "#PWR03") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Regulator_Linear:IFX27001TFV33") (at 38.1 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid e38e6c20-01cc-4b66-a898-eefe4fdbe617)
-    (property "Reference" "TLV75533PDBVR1" (at 38.1 43.18 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "3.3V regulator" (at 38.1 45.72 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2" (at 38.1 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv755p.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1693140947810&ref_url=https%253A%252F%252Feu.mouser.com%252F" (at 38.1 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "shop" "https://www.mouser.ch/ProductDetail/Texas-Instruments/TLV75533PDBVR?qs=sGAEpiMZZMt1hubY80%2Fs8Ncl2sHGlOOHvezMCOdr1JVVYBSOtLKJ3g%3D%3D" (at 38.1 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ddc642f9-fa05-4598-a05d-72c4f0ec68a1))
-    (pin "2" (uuid ca9dfee5-b88d-47c9-81f6-09a253d30e03))
-    (pin "3" (uuid 09463465-3d3c-433b-936b-69738222cd45))
-    (instances
-      (project "planter-32-v1"
-        (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
-          (reference "TLV75533PDBVR1") (unit 1)
         )
       )
     )
@@ -2937,7 +2702,7 @@
     (pin "2" (uuid 47875368-6479-4cb9-9563-79cc07a4b979))
     (pin "3" (uuid 5ffc0fcb-ee71-4070-b7d9-e8f459c162e3))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "TLV75533PDBVR") (unit 1)
         )
@@ -2960,33 +2725,33 @@
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 241.3 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "A1" (uuid 120b346d-50db-4160-8f67-79a9ae6ce450))
-    (pin "A10" (uuid 536a40a5-eac5-4b01-bdd2-75fda0300a24))
-    (pin "A11" (uuid 57b039f0-9596-455c-a0e1-4c6ab56ddf88))
-    (pin "A12" (uuid 395e8636-283a-4d76-91e9-1f078276bc1a))
-    (pin "A2" (uuid e186e4b4-6c05-4c37-a1b2-e2ed9c50a031))
-    (pin "A3" (uuid 95f8322d-1dc5-4d04-9719-12b82b326016))
-    (pin "A4" (uuid 0b9e4247-c028-42ca-a7c2-c8a798c31d38))
-    (pin "A5" (uuid f3150062-ba50-42df-be0c-6ad41ffb838f))
-    (pin "A6" (uuid dd5af32c-1e44-41fe-a879-ac031a5dd631))
-    (pin "A7" (uuid a1687882-b26e-4ca4-8fdc-317f408b1f2d))
-    (pin "A8" (uuid 2ce755e2-1347-440d-be35-b4746d09887f))
-    (pin "A9" (uuid c4b9aeea-57d8-4913-bc47-b6605394db37))
-    (pin "B1" (uuid fb241806-d58f-418f-a73c-f1798be5943e))
-    (pin "B10" (uuid 10a7306a-5370-408e-9624-fe50ab2e3388))
-    (pin "B11" (uuid 332239cf-c89d-4e53-9b9a-837dd5a7b89c))
-    (pin "B12" (uuid a955acca-674d-469a-8e12-5ef56090d3f6))
-    (pin "B2" (uuid fef9e761-de37-4827-be37-7bf51436ee47))
-    (pin "B3" (uuid 36e4c596-6702-4ebf-b6c0-da07bde8241d))
-    (pin "B4" (uuid 8eb223d4-d14f-48b6-92cd-b4cceeb225ab))
-    (pin "B5" (uuid 825c840e-e3ac-45ac-b479-27e9ce4847d5))
-    (pin "B6" (uuid 6aaa466a-de13-40fa-abd9-cec724b3eeb9))
-    (pin "B7" (uuid bf420235-6d0d-40ec-b283-6e67cd12ffca))
-    (pin "B8" (uuid 5e16c095-7c99-4636-bbd7-5585a9045c86))
-    (pin "B9" (uuid 73010c11-0cf5-4c9e-8c63-63a76fbf849f))
-    (pin "S1" (uuid b5aaf64f-d36d-4644-9b93-62ac48282067))
+    (pin "A1" (uuid 7037a11d-52f2-4ba4-82d1-8f6c0e007e78))
+    (pin "A10" (uuid 8be939bb-4e80-43db-9f0d-dfc85b35f49f))
+    (pin "A11" (uuid ae8ca3a7-10f0-4d3d-8a0d-3b03db90ee76))
+    (pin "A12" (uuid 97bb27d0-232a-4e89-9a08-121ff0e8fcd3))
+    (pin "A2" (uuid 57bdd362-8050-483c-91b6-fe8932afe2c0))
+    (pin "A3" (uuid 7e7e0c4e-818d-426f-bdab-25fc47e9e1c0))
+    (pin "A4" (uuid 60b5eed6-e65e-4503-9931-a5ded033c9b3))
+    (pin "A5" (uuid 913badd7-a3d4-4a08-9832-f390d5860c10))
+    (pin "A6" (uuid 80648a84-b681-411f-a0ec-fa81c9eb30c4))
+    (pin "A7" (uuid 2eeb4dda-18a2-4433-88b3-21b00f66bc95))
+    (pin "A8" (uuid 894fe602-fd46-456a-a155-094295e742ab))
+    (pin "A9" (uuid fa3eedfa-4369-44fa-80aa-4ab17bd4ce59))
+    (pin "B1" (uuid 2efd974f-c83c-40fc-84d6-ece6b1019279))
+    (pin "B10" (uuid 588ebffb-0794-420c-b510-674f9b0aaf0e))
+    (pin "B11" (uuid 63b97ceb-3d5e-48b7-b1a8-4c255538a139))
+    (pin "B12" (uuid 8ea6650f-90ba-414a-8513-354673e69301))
+    (pin "B2" (uuid 1fb8242a-36ed-4b91-8525-cbfb928ae903))
+    (pin "B3" (uuid 6b03b544-b98a-48ad-b287-35f2ce18a905))
+    (pin "B4" (uuid 54ba4e2d-13dc-4657-8409-c8c8f96dae58))
+    (pin "B5" (uuid b23d30e1-5646-4b15-96e7-eabaa92c1e6a))
+    (pin "B6" (uuid 43c628cf-2a25-4200-b3a6-95b8034c5e98))
+    (pin "B7" (uuid 3d86cad5-02f9-4561-b861-40c2cedee18c))
+    (pin "B8" (uuid c9a05778-e669-49d8-aa96-079fdbf6902a))
+    (pin "B9" (uuid 0ce1cf3f-018a-4abe-856a-3f85bc6b090f))
+    (pin "S1" (uuid ff8679f6-fedd-4672-9e78-177b6c102d32))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "J1") (unit 1)
         )
@@ -3011,7 +2776,7 @@
     )
     (pin "1" (uuid 5fcd4cfd-8eca-4c3b-81e1-b42b18d63ca7))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR08") (unit 1)
         )
@@ -3036,7 +2801,7 @@
     )
     (pin "1" (uuid abcc7690-3155-4a3a-a1c8-8b1e66bbdfbe))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "#PWR028") (unit 1)
         )
@@ -3067,7 +2832,7 @@
     (pin "1" (uuid 69df2262-3f61-4d67-b716-1d013e66c9ca))
     (pin "2" (uuid 3cefe41f-cf8a-4a50-97aa-7b710192a7e6))
     (instances
-      (project "planter-32-v1"
+      (project "wled_V1"
         (path "/de2f0c7b-62aa-45a1-944c-ab4e5150c860"
           (reference "C5") (unit 1)
         )

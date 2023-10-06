@@ -1,0 +1,14 @@
+#;Reference;Qty;Value;Footprint;DNP;;;
+1;AZ1117CR-3.3TRG1;1;5v to 3v3;Package_TO_SOT_SMD:TO-252-3_TabPin2;;;;
+2;C1, C2, C3, C4, C6, C7, C9, C10, C11, C15;10;100nF;;;;;C0402C103K1RACAUTO
+3;C5, C8;2;1000uF/50V;;;;;A768MS108M1CLAE015
+4;C12, C13, C14;3;1uF;;;;;KGM32ER71H105KU
+5;ESP32-S3-WROOM-1-N8;1;ESP32-S3-WROOM-1;Espressif:ESP32-S3-WROOM-1;;;;
+6;F1;1;Fuse;;;;;
+7;J1;1;USB_C_Receptacle;;;;;10164359-00011LF
+8;J3;1;Conn_01x07_Pin;;;;;
+9;J5, J7;2;Conn_01x04_Socket;;;;;
+10;JP1;1;Jumper_2_Open;;;;;
+11;PJ-102AH1;1;Jack-DC;;;;;
+12;TSR-1-2450;1;12v to 5v;Package_TO_SOT_SMD:TO-252-3_TabPin2;;;;
+13;U3;1;TXS0102DCT;Package_SO:SSOP-8_2.95x2.8mm_P0.65mm;;;;

@@ -1,0 +1,356 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ESP32-S3-WROOM-1-N8
+#/15288886/1236534/2.50/57/3/Integrated Circuit
+DEF ESP32-S3-WROOM-1-N8 IC 0 30 Y Y 1 F N
+F0 "IC" 1850 900 50 H V L CNN
+F1 "ESP32-S3-WROOM-1-N8" 1850 800 50 H V L CNN
+F2 "QFN40P700X700X90-57N-D" 1850 700 50 H I L CNN
+F3 "https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf" 1850 600 50 H I L CNN
+F4 "SMD MODULE, ESP32-S3, 8 MB SPI F" 1850 500 50 H I L CNN "Description"
+F5 "0.9" 1850 400 50 H I L CNN "Height"
+F6 "Espressif Systems" 1850 300 50 H I L CNN "Manufacturer_Name"
+F7 "ESP32-S3-WROOM-1-N8" 1850 200 50 H I L CNN "Manufacturer_Part_Number"
+F8 "356-ESP32-S3WROOM1N8" 1850 100 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N8?qs=Wj%2FVkw3K%252BMC1mq0KGPvoSQ%3D%3D" 1850 0 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1850 -100 50 H I L CNN "Arrow Part Number"
+F11 "" 1850 -200 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X LNA_IN 1 0 0 200 R 50 50 0 0 P
+X VDD3P3_1 2 0 -100 200 R 50 50 0 0 P
+X VDD3P3_2 3 0 -200 200 R 50 50 0 0 P
+X CHIP_PU 4 0 -300 200 R 50 50 0 0 P
+X GPIO0 5 0 -400 200 R 50 50 0 0 P
+X GPIO1 6 0 -500 200 R 50 50 0 0 P
+X GPIO2 7 0 -600 200 R 50 50 0 0 P
+X GPIO3 8 0 -700 200 R 50 50 0 0 P
+X GPIO4 9 0 -800 200 R 50 50 0 0 P
+X GPIO5 10 0 -900 200 R 50 50 0 0 P
+X GPIO6 11 0 -1000 200 R 50 50 0 0 P
+X GPIO7 12 0 -1100 200 R 50 50 0 0 P
+X GPIO8 13 0 -1200 200 R 50 50 0 0 P
+X GPIO9 14 0 -1300 200 R 50 50 0 0 P
+X GPIO10 15 300 -2200 200 U 50 50 0 0 P
+X GPIO11 16 400 -2200 200 U 50 50 0 0 P
+X GPIO12 17 500 -2200 200 U 50 50 0 0 P
+X GPIO13 18 600 -2200 200 U 50 50 0 0 P
+X GPIO14 19 700 -2200 200 U 50 50 0 0 P
+X VDD3P3_RTC 20 800 -2200 200 U 50 50 0 0 P
+X XTAL_32K_P 21 900 -2200 200 U 50 50 0 0 P
+X XTAL_32K_N 22 1000 -2200 200 U 50 50 0 0 P
+X GPIO17 23 1100 -2200 200 U 50 50 0 0 P
+X GPIO18 24 1200 -2200 200 U 50 50 0 0 P
+X GPIO19 25 1300 -2200 200 U 50 50 0 0 P
+X GPIO20 26 1400 -2200 200 U 50 50 0 0 P
+X GPIO21 27 1500 -2200 200 U 50 50 0 0 P
+X SPICS1 28 1600 -2200 200 U 50 50 0 0 P
+X GPIO37 42 2000 0 200 L 50 50 0 0 P
+X GPIO36 41 2000 -100 200 L 50 50 0 0 P
+X GPIO35 40 2000 -200 200 L 50 50 0 0 P
+X GPIO34 39 2000 -300 200 L 50 50 0 0 P
+X GPIO33 38 2000 -400 200 L 50 50 0 0 P
+X SPICLK_P 37 2000 -500 200 L 50 50 0 0 P
+X SPICLK_N 36 2000 -600 200 L 50 50 0 0 P
+X SPID 35 2000 -700 200 L 50 50 0 0 P
+X SPIQ 34 2000 -800 200 L 50 50 0 0 P
+X SPICLK 33 2000 -900 200 L 50 50 0 0 P
+X SPICS0 32 2000 -1000 200 L 50 50 0 0 P
+X SPIWP 31 2000 -1100 200 L 50 50 0 0 P
+X SPIHD 30 2000 -1200 200 L 50 50 0 0 P
+X VDD_SPI 29 2000 -1300 200 L 50 50 0 0 P
+X EP 57 300 900 200 D 50 50 0 0 P
+X VDDA_2 56 400 900 200 D 50 50 0 0 P
+X VDDA_1 55 500 900 200 D 50 50 0 0 P
+X XTAL_P 54 600 900 200 D 50 50 0 0 P
+X XTAL_N 53 700 900 200 D 50 50 0 0 P
+X GPIO46 52 800 900 200 D 50 50 0 0 P
+X GPIO45 51 900 900 200 D 50 50 0 0 P
+X U0RXD 50 1000 900 200 D 50 50 0 0 P
+X U0TXD 49 1100 900 200 D 50 50 0 0 P
+X MTMS 48 1200 900 200 D 50 50 0 0 P
+X MTDI 47 1300 900 200 D 50 50 0 0 P
+X VDD3P3_CPU 46 1400 900 200 D 50 50 0 0 P
+X MTDO 45 1500 900 200 D 50 50 0 0 P
+X MTCK 44 1600 900 200 D 50 50 0 0 P
+X GPIO38 43 1700 900 200 D 50 50 0 0 P
+P 5 0 1 6 200 700 1800 700 1800 -2000 200 -2000 200 700 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model AZ1117CR-3.3TRG1
+#/277697/1136241/2.50/4/4/Integrated Circuit
+DEF AZ1117CR-3.3TRG1 IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "AZ1117CR-3.3TRG1" 1150 200 50 H V L CNN
+F2 "AZ1117CR33TRG1" 1150 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf" 1150 0 50 H I L CNN
+F4 "DiodesZetex AZ1117CR-3.3TRG1, LDO Regulator, 800mA, 3.3 V, +/-1%, maximum of 15 Vin 3-Pin, SOT-89" 1150 -100 50 H I L CNN "Description"
+F5 "2" 1150 -200 50 H I L CNN "Height"
+F6 "Diodes Inc." 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AZ1117CR-3.3TRG1" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-AZ1117CR-3.3TRG1" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AZ1117CR-3.3TRG1?qs=FKu9oBikfSlEg7waHw2tMw%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "AZ1117CR-3.3TRG1" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/az1117cr-3.3trg1/diodes-incorporated?region=nac" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ADJ/GND 1 0 0 200 R 50 50 0 0 P
+X OUTPUT 2 0 -100 200 R 50 50 0 0 P
+X INPUT 3 1300 0 200 L 50 50 0 0 P
+X VOUT 4 1300 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model PJ-057AH
+#/907661/1136241/2.50/3/4/Connector
+DEF PJ-057AH J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "PJ-057AH" 650 200 50 H V L CNN
+F2 "PJ057AH" 650 100 50 H I L CNN
+F3 "https://www.cui.com/product/resource/pj-057ah.pdf" 650 0 50 H I L CNN
+F4 "DC Power Connectors Power Jacks" 650 -100 50 H I L CNN "Description"
+F5 "11" 650 -200 50 H I L CNN "Height"
+F6 "CUI Devices" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PJ-057AH" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "490-PJ-057AH" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-057AH?qs=WyjlAZoYn52G8HdXzHo9iQ%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PJ-057AH" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/pj-057ah/cui-devices" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 800 -100 200 L 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TSR1-2450
+#/15054586/1136241/2.50/3/2/Power Supply
+DEF TSR1-2450 PS 0 30 Y Y 1 F N
+F0 "PS" 850 300 50 H V L CNN
+F1 "TSR1-2450" 850 200 50 H V L CNN
+F2 "TSR12450" 850 100 50 H I L CNN
+F3 "https://www.tracopower.com/sites/default/files/products/datasheets/tsr1_datasheet.pdf" 850 0 50 H I L CNN
+F4 "Linear Regulator Replacement DC DC Converter Output 5V - - - 1A 6.5V - 36V Input DC DC CONVERTER 5V 5W" 850 -100 50 H I L CNN "Description"
+F5 "10.6" 850 -200 50 H I L CNN "Height"
+F6 "Traco Power" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TSR1-2450" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X +VIN 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X +VOUT 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 39-30-3041
+#/1325792/1136241/2.50/4/2/Connector
+DEF 39-30-3041 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "39-30-3041" 650 200 50 H V L CNN
+F2 "39303041" 650 100 50 H I L CNN
+F3 "https://www.molex.com/pdm_docs/sd/039303041_sd.pdf" 650 0 50 H I L CNN
+F4 "Headers & Wire Housings MiniFit Jr RA SR /Fl SR /Flg Tin V-2 4Ckt" 650 -100 50 H I L CNN "Description"
+F5 "12.45" 650 -200 50 H I L CNN "Height"
+F6 "538-39-30-3041" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Molex/39-30-3041?qs=cm0cgiBciNY%252BXQF3KNDjMw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "39-30-3041" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 800 0 200 L 50 50 0 0 P
+X 4 4 800 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TXS0102DCTR
+#/380584/1136241/2.50/8/4/Integrated Circuit
+DEF TXS0102DCTR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TXS0102DCTR" 950 200 50 H V L CNN
+F2 "SOP65P400X130-8N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/txs0102" 950 0 50 H I L CNN
+F4 "2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application" 950 -100 50 H I L CNN "Description"
+F5 "1.3" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TXS0102DCTR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TXS0102DCTR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXS0102DCTR?qs=BWabSxB1G9cell1mrpKPvA%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TXS0102DCTR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/txs0102dctr/texas-instruments?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X B2 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 W
+X VCCA 3 0 -200 200 R 50 50 0 0 W
+X A2 4 0 -300 200 R 50 50 0 0 B
+X B1 8 1100 0 200 L 50 50 0 0 B
+X VCCB 7 1100 -100 200 L 50 50 0 0 W
+X OE 6 1100 -200 200 L 50 50 0 0 I
+X A1 5 1100 -300 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 10164359-00011LF
+#/17895801/1136241/2.50/10/3/Connector
+DEF 10164359-00011LF J 0 30 Y Y 1 F N
+F0 "J" 1150 300 50 H V L CNN
+F1 "10164359-00011LF" 1150 200 50 H V L CNN
+F2 "1016435900011LF" 1150 100 50 H I L CNN
+F3 "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10164359.pdf" 1150 0 50 H I L CNN
+F4 "USB Type C Receptacle SMT Single Row 6Pin" 1150 -100 50 H I L CNN "Description"
+F5 "3.41" 1150 -200 50 H I L CNN "Height"
+F6 "Amphenol" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "10164359-00011LF" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "649-10164359-00011LF" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10164359-00011LF?qs=MyNHzdoqoQLpQ%2FmSqA1%252BtQ%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "10164359-00011LF" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/10164359-00011lf/amphenol-fci?region=nac" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X CC1 A5 0 0 200 R 50 50 0 0 P
+X VBUS_1 A9 0 -100 200 R 50 50 0 0 P
+X GND_1 A12 0 -200 200 R 50 50 0 0 P
+X CC2 B5 0 -300 200 R 50 50 0 0 P
+X VBUS_2 B9 0 -400 200 R 50 50 0 0 P
+X GND_2 B12 1300 0 200 L 50 50 0 0 P
+X MH1 MH1 1300 -100 200 L 50 50 0 0 P
+X MH2 MH2 1300 -200 200 L 50 50 0 0 P
+X MH3 MH3 1300 -300 200 L 50 50 0 0 P
+X MH4 MH4 1300 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model A768MS108M1CLAE015
+#/13885053/1136241/2.50/2/2/Capacitor
+DEF A768MS108M1CLAE015 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "A768MS108M1CLAE015" 350 150 50 H V L CNN
+F2 "CAPAE1030X1030N" 350 50 50 H I L CNN
+F3 "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS108M1CLAE015" 350 -50 50 H I L CNN
+F4 "A768, Aluminum, Polymer Aluminum, 1,000 uF, 20%, 16 VDC, -55/+125C, 125C, -55C, 125C, 2,000 Hrs, 15 mOhms, 3,200 uA, 10mm, 12.2mm, 400" 350 -150 50 H I L CNN "Description"
+F5 "10.3" 350 -250 50 H I L CNN "Height"
+F6 "KEMET" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "A768MS108M1CLAE015" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-A768MS108M1CLAE15" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/A768MS108M1CLAE015?qs=vmHwEFxEFR%252BKkhWLLss77A%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "A768MS108M1CLAE015" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/a768ms108m1clae015/kemet-corporation?region=nac" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model C0402C103K1RACAUTO
+#/18337261/1136241/2.50/2/3/Capacitor
+DEF C0402C103K1RACAUTO C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "C0402C103K1RACAUTO" 350 150 50 H V L CNN
+F2 "CAPC1005X55N" 350 50 50 H I L CNN
+F3 "https://eu.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf" 350 -50 50 H I L CNN
+F4 "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 10000pF 10% X7R 1005 AEC-Q200" 350 -150 50 H I L CNN "Description"
+F5 "0.55" 350 -250 50 H I L CNN "Height"
+F6 "KEMET" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "C0402C103K1RACAUTO" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-C0402C103K1RAUTO" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/C0402C103K1RACAUTO?qs=3Rah4i%252BhyCHXskxLpCJIBw%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model GRM155C71C105KE11D
+#/16632535/1136241/2.50/2/5/Capacitor
+DEF GRM155C71C105KE11D C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "GRM155C71C105KE11D" 350 150 50 H V L CNN
+F2 "CAPC1005X55N" 350 50 50 H I L CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf" 350 -50 50 H I L CNN
+F4 "Multilayer Ceramic Capacitors MLCC - SMD/SMT" 350 -150 50 H I L CNN "Description"
+F5 "0.55" 350 -250 50 H I L CNN "Height"
+F6 "Murata Electronics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "GRM155C71C105KE11D" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-GRM155C71C105KE1D" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM155C71C105KE11D?qs=IS%252B4QmGtzzqXPf5Eo7kUhA%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 0440007.WRA
+#/11512106/1136241/2.50/2/2/Fuse
+DEF 0440007.WRA F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "0440007.WRA" 550 150 50 H V L CNN
+F2 "FUSC3216X85N" 550 50 50 H I L CNN
+F3 "https://cdn1-originals.webdamdb.com/12956_127233631?cache=1637866842&response-content-disposition=inline;filename=Littelfuse_Fuse_440A_Datasheet.pdf&response-content-type=application/pdf&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpb" 550 -50 50 H I L CNN
+F4 "Surface Mount Ceramic Fuses" 550 -150 50 H I L CNN "Description"
+F5 "0.85" 550 -250 50 H I L CNN "Height"
+F6 "LITTELFUSE" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "0440007.WRA" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "576-0440007.WRA" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Littelfuse/0440007WRA/?qs=DXv0QSHKF4wyNhwcNECEeg%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "0440007.WRA" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/0440007.wra/littelfuse" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 2 0 1 6 200 0 500 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

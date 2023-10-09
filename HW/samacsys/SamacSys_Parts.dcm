@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ESP32-S3-WROOM-1-N8
+D SMD MODULE, ESP32-S3, 8 MB SPI F
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
+$ENDCMP
+#
+$CMP PJ-057AH
+D DC Power Connectors Power Jacks
+K
+F https://www.cui.com/product/resource/pj-057ah.pdf
+$ENDCMP
+#
+$CMP TSR1-2450
+D Linear Regulator Replacement DC DC Converter Output 5V - - - 1A 6.5V - 36V Input DC DC CONVERTER 5V 5W
+K
+F https://www.tracopower.com/sites/default/files/products/datasheets/tsr1_datasheet.pdf
+$ENDCMP
+#
+$CMP TXS0102DCTR
+D 2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application
+K
+F http://www.ti.com/lit/gpn/txs0102
+$ENDCMP
+#
+$CMP 10164359-00011LF
+D USB Type C Receptacle SMT Single Row 6Pin
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10164359.pdf
+$ENDCMP
+#
+$CMP A768MS108M1CLAE015
+D A768, Aluminum, Polymer Aluminum, 1,000 uF, 20%, 16 VDC, -55/+125C, 125C, -55C, 125C, 2,000 Hrs, 15 mOhms, 3,200 uA, 10mm, 12.2mm, 400
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS108M1CLAE015
+$ENDCMP
+#
+$CMP C0402C103K1RACAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 10000pF 10% X7R 1005 AEC-Q200
+K
+F https://eu.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf
+$ENDCMP
+#
+$CMP GRM155C71C105KE11D
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP 0440007.WRA
+D Surface Mount Ceramic Fuses
+K
+F https://cdn1-originals.webdamdb.com/12956_127233631?cache=1637866842&response-content-disposition=inline;filename=Littelfuse_Fuse_440A_Datasheet.pdf&response-content-type=application/pdf&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpb
+$ENDCMP
+#
+#End Doc Library

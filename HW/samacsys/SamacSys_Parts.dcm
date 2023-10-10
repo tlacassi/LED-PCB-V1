@@ -60,4 +60,10 @@ K
 F https://cdn1-originals.webdamdb.com/12956_127233631?cache=1637866842&response-content-disposition=inline;filename=Littelfuse_Fuse_440A_Datasheet.pdf&response-content-type=application/pdf&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpb
 $ENDCMP
 #
+$CMP ESP32-S3-WROOM-1-N8R8
+D WiFi Modules - 802.11 (Engineering Samples Only) SMD Module, ESP32-S3R8 with 8 MB Octal PSRAM Die, 8 MB Quad SPI flash, PCB Antenna
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+$ENDCMP
+#
 #End Doc Library

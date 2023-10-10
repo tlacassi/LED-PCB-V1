@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/lacas/Documents/Git/LED-PCB-V1/HW/samacsys/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "empreintes")(type "KiCad")(uri "C:/Users/lacas/Documents/Git/LED-PCB-V1/HW/empreintes")(options "")(descr ""))
+  (lib (name "samacsys")(type "KiCad")(uri "C:/Users/lacas/Documents/Git/LED-PCB-V1/HW/samacsys")(options "")(descr ""))
+  (lib (name "SamacSys_Parts.3dshapes")(type "KiCad")(uri "C:/Users/lacas/Documents/Git/LED-PCB-V1/HW/samacsys/SamacSys_Parts.3dshapes")(options "")(descr ""))
+)

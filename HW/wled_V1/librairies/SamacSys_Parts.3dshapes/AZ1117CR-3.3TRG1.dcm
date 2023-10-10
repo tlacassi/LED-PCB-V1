@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AZ1117CR-3.3TRG1
+D DiodesZetex AZ1117CR-3.3TRG1, LDO Regulator, 800mA, 3.3 V, +/-1%, maximum of 15 Vin 3-Pin, SOT-89
+K
+F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
+$ENDCMP
+#
+#End Doc Library

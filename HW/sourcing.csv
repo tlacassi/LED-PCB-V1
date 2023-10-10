@@ -1,12 +1,12 @@
-Reference;Qty;Value;Footprint;REF 1;Prix 1 CHF;REF 2;Prix 2 CHF;REF 3;Prix 3 CHF;
-Réducteur 1;1;5v to 3v3;Package_TO_SOT_SMD:TO-252-3_TabPin2;AZ1117CR-3.3TRG1;0,307;;;;;
-Réducteur/DCDC 2;1;12v to 5v;Package_TO_SOT_SMD:TO-252-3_TabPin2;TSR-1-2450SM;8,98;;;;;
-Condensateurs : C1, C2, C3, C4, C6, C7, C9, C10, C11, C15;10;100nF;;C0402C103K1RACAUTO;0,216;;;;;
-Condensateurs : C5, C8;2;1000uF/50V;;A768MS108M1CLAE015;0,821;;;;;
-Condensateurs : C12, C13, C14;3;1uF;;GRM155C71C105KE11D;0.09;;;;;
-Microcontrôleur;1;ESP32;;ESP32-S3-WROOM-1-N8;2,89;;;;;
-Fusible F1;1;7A;;0440007.WRA;"1,39	";;;;;
-Connecteur USB C : J1;1;USB_C_Receptacle;;10164359-00011LF;0,451;;;;;
-Connecteurs de sortie : J5, J7;2;4 pins right angle;;39-30-3041;"0.776	";;;;;
-Connecteur d'alimentation;1;Jack-DC;;PJ-057AH;"0.965	";;;;;
-Level shifter;1;0-3.3V to 0-5V;;TXS0102DCT;0.929;;;;;
+Reference;Qty;Value;Footprint;REF 1;Prix 1 CHF;REF 2;Prix 2 CHF;REF 3;Prix 3 CHF
+Réducteur 1;1;5v to 3v3;Package_TO_SOT_SMD:TO-252-3_TabPin2;AZ1117CR-3.3TRG1;0,307;;;;
+Réducteur/DCDC 2;1;12v to 5v;Package_TO_SOT_SMD:TO-252-3_TabPin2;TSR-1-2450SM;8,98;;;;
+Condensateurs : C1, C2, C3, C4, C6, C7, C9, C10, C11, C15;10;100nF;;C0402C103K1RACAUTO;0,216;;;;
+Condensateurs : C5, C8;2;1000uF/50V;;A768MS108M1CLAE015;0,821;;;;
+Condensateurs : C12, C13, C14;3;1uF;;GRM155C71C105KE11D;0.09;;;;
+Microcontrôleur;1;ESP32;;ESP32-S3-WROOM-1-N8;2,89;;;;
+Fusible F1;1;7A;;0440007.WRA;"1,39	";;;;
+Connecteur USB C : J1;1;USB_C_Receptacle;;10164359-00011LF;0,451;;;;
+Connecteurs de sortie : J5, J7;2;4 pins right angle;;39-30-3041;"0.776	";;;;
+Connecteur d'alimentation;1;Jack-DC;;PJ-057AH;"0.965	";;;;
+Level shifter;1;0-3.3V to 0-5V;;TXS0102DCT;0.929;;;;

@@ -84,4 +84,10 @@ K
 F http://www.schurter.com.hk/var/schurter/storage/ilcatalogue/files/document/datasheet/en/pdf/typ_OGN.pdf
 $ENDCMP
 #
+$CMP SN74AHCT125DR
+D Quadruple Bus Buffer Gates With 3-State Outputs
+K
+F http://www.ti.com/lit/gpn/sn74ahct125
+$ENDCMP
+#
 #End Doc Library

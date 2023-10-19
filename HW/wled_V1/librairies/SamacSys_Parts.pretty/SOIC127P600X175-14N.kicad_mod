@@ -39,7 +39,7 @@
   (pad 12 smd rect (at 2.712 -1.27 90) (size 0.65 1.525) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 2.712 -2.54 90) (size 0.65 1.525) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 2.712 -3.81 90) (size 0.65 1.525) (layers F.Cu F.Paste F.Mask))
-  (model "\\\\Mac\\Home\\Documents\\Git repos\\LED-PCB-V1\\HW\\wled_V1\\librairies\\SamacSys_Parts.3dshapes\\SN74AHCT125DR.stp"
+  (model SN74AHCT125DR.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

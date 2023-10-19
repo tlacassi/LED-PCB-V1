@@ -90,4 +90,22 @@ K
 F http://www.ti.com/lit/gpn/sn74ahct125
 $ENDCMP
 #
+$CMP EMZS250ARA102MJA0G
+D Aluminum Electrolytic Capacitors - SMD 1000uF 25V 20% AEC-Q200
+K
+F https://componentsearchengine.com/Datasheets/1/EMZS250ARA102MJA0G.pdf
+$ENDCMP
+#
+$CMP BK1_HTC-100M
+D Fuse Holder FUSE HLD CARRIER/SET
+K
+F https://www.mouser.fr/datasheet/2/87/Eaton_06202018__HTC-100M-1372276.pdf
+$ENDCMP
+#
+$CMP 694106301002
+D WURTH ELEKTRONIK - 694106301002 - CONNECTOR, POWER ENTRY, JACK, 3A, 20VDC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/1c153bd2ba42bb51bda59ee4cd9765cd.pdf
+$ENDCMP
+#
 #End Doc Library

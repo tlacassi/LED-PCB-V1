@@ -108,4 +108,22 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/1c153bd2ba42bb51bda59ee4cd9765cd.pdf
 $ENDCMP
 #
+$CMP 1N4148W_R1_00001
+D Diodes - General Purpose, Power, Switching /A2/TR/7"/HF/3K/SOD-123/SWI/SOD/USM-04/USM04-QI01/PJ///
+K
+F 
+$ENDCMP
+#
+$CMP MMBT3904-7-F
+D Bipolar Transistors - BJT 40V NPN SS Trans 60Vceo 6Vebo 200mA
+K
+F https://www.arrow.com/en/products/mmbt3904-7-f/diodes-incorporated
+$ENDCMP
+#
+$CMP AHQSH112LM1F00G
+D General Purpose Relay SPST-NO (1 Form A) 12VDC Coil Through Hole
+K
+F http://www.anytek.com.cn/AHQSH112DM2F00G-14101117906.pdf
+$ENDCMP
+#
 #End Doc Library

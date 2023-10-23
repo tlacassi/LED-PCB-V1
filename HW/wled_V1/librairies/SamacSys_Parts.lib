@@ -678,4 +678,48 @@ P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model TS14-1212-140-BK-160-SCR-D
+#/17243793/1136241/2.50/4/3/Switch
+DEF TS14-1212-140-BK-160-SCR-D S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "TS14-1212-140-BK-160-SCR-D" 1050 200 50 H V L CNN
+F2 "TS141212140BK160SCRD" 1050 100 50 H I L CNN
+F3 "https://www.cuidevices.com/product/resource/ts14.pdf" 1050 0 50 H I L CNN
+F4 "Tactile Switches 12 x 12 mm 14 mm 160 gf Short Crimped Black Through Hole SPST" 1050 -100 50 H I L CNN "Description"
+F5 "14.2" 1050 -200 50 H I L CNN "Height"
+F6 "" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "CUI Devices" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TS14-1212-140-BK-160-SCR-D" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NO_1 1 0 0 200 R 50 50 0 0 P
+X NO_2 2 1200 0 200 L 50 50 0 0 P
+X COM_1 3 0 -100 200 R 50 50 0 0 P
+X COM_2 4 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TS02-66-160-BK-260-LCR-D
+#/15633677/1136241/2.50/4/3/Switch
+DEF TS02-66-160-BK-260-LCR-D S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "TS02-66-160-BK-260-LCR-D" 1050 200 50 H V L CNN
+F2 "TS0266160BK260LCRD" 1050 100 50 H I L CNN
+F3 "https://www.cuidevices.com/product/resource/ts02.pdf" 1050 0 50 H I L CNN
+F4 "Tactile Switches 6 x 6 mm, 16 mm Act Height, 260 gf, Black, Long Crimped, Through Hole, SPST," 1050 -100 50 H I L CNN "Description"
+F5 "16.2" 1050 -200 50 H I L CNN "Height"
+F6 "179-TS0266160BK260LC" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-160-BK-260-LCR-D?qs=A6eO%252BMLsxmR2iSh4nOToMQ%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "CUI Devices" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TS02-66-160-BK-260-LCR-D" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NO_1 1 0 0 200 R 50 50 0 0 P
+X NO_2 2 1200 0 200 L 50 50 0 0 P
+X COM_1 3 0 -100 200 R 50 50 0 0 P
+X COM_2 4 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

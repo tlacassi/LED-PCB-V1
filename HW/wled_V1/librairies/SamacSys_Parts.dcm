@@ -126,4 +126,10 @@ K
 F http://www.anytek.com.cn/AHQSH112DM2F00G-14101117906.pdf
 $ENDCMP
 #
+$CMP TS14-1212-140-BK-160-SCR-D
+D Tactile Switches 12 x 12 mm 14 mm 160 gf Short Crimped Black Through Hole SPST
+K
+F https://www.cuidevices.com/product/resource/ts14.pdf
+$ENDCMP
+#
 #End Doc Library
